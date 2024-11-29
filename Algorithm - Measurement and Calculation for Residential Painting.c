@@ -1,5 +1,5 @@
 
-//  Author: PHNO - Tecnólogo | Pós-Graduado
+//  Author: PHNO - Technologist | Postgraduate
 //  Release Date: 29/11/2024
 //  Version: 0.0.0.2v
 //  Replit: @PHNO, @PHREPLIT
@@ -23,7 +23,7 @@ int menu_programmer();
 int menu() { // Menu Function  
 int op, c;
 
-printf("\n\t Measurement and Calculation for Residential Painting \n");
+printf("\n Measurement and Calculation for Residential Painting \n");
 
 printf("\n");
 printf("\n\t     Menu    \n");
