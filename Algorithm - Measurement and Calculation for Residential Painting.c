@@ -146,7 +146,7 @@ printf("\n");
 resultado = (v1 * v2);
 calcqtdlitro = (v1 * lata1);
 calcmq = (calcqtdlitro / mq1);
-printf("\nThe number of coats per %d cans) of paint will be %d coat(s).\n", v1, resultado);
+printf("\nThe number of coats per %d can(s) of paint will be %d coat(s).\n", v1, resultado);
 
 printf("\nPress enter to return menu...\n");
 getchar();
